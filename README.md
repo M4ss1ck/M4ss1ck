@@ -2,7 +2,7 @@
 - 👀 I’m interested in a few things (math, music, programming...)
 - 🌱 I’m currently learning a lot of stuff
 - 💞️ I’m looking to collaborate on cool projects
-- 📫 How to reach me? *shrugs*
+- 📫 How to reach me? * shrugs *
 
 <!---
 M4ss1ck/M4ss1ck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
