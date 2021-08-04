@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @M4ss1ck
+# 👋 Hi, I’m @M4ss1ck
 - 👀 I’m interested in a few things (math, music, programming...)
 - 🌱 I’m currently learning a lot of stuff
 - 💞️ I’m looking to collaborate on cool projects
