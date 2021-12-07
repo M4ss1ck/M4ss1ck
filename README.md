@@ -1,11 +1,23 @@
 # 👋 Hi, I’m @M4ss1ck
 
-![M4ss1ck's GitHub stats](https://github-readme-stats.vercel.app/api?username=M4ss1ck&count_private=true&show_icons=true)
+![My stats](https://github-readme-stats.vercel.app/api?username=M4ss1ck&count_private=true&show_icons=true&theme=radical)
 
-- 👀 I’m interested in a few things (math, music, programming...)
-- 🌱 I’m currently learning a lot of stuff
-- 💞️ I’m looking to collaborate on cool projects
-- 📫 How to reach me? => https://t.me/m4ss1ck
+I am a Mathematics graduate who loves programming. 
+
+## 💪🏼 Skills
+- HTML
+- CSS
+- Javascript
+- React
+- GatsbyJS
+- NextJS
+- PostgreSQL
+- and anything I can get my hands on.
+
+## 👀 You can find me at:
+Telegram: [Massick](https://t.me/m4ss1ck)
+Twitter: [@M4ss1ck](https://twitter.com/M4ss1ck)
+Personal Blog (in Spanish): [Wasting Blog](https://wastingblog.gatsbyjs.io/)
 
 
 ### Stats came from [this awesome project](https://github.com/anuraghazra/github-readme-stats)
