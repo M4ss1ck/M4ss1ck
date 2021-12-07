@@ -1,4 +1,7 @@
 # 👋 Hi, I’m @M4ss1ck
+
+![M4ss1ck's GitHub stats](https://github-readme-stats.vercel.app/api?username=M4ss1ck&count_private=true&show_icons=true)
+
 - 👀 I’m interested in a few things (math, music, programming...)
 - 🌱 I’m currently learning a lot of stuff
 - 💞️ I’m looking to collaborate on cool projects
