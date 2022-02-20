@@ -9,6 +9,7 @@ I am a Mathematics graduate who loves programming.
 - CSS
 - Javascript
 - React
+- Git
 - GatsbyJS
 - NextJS
 - PostgreSQL
