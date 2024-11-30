@@ -18,7 +18,7 @@ I am a Mathematics graduate who loves programming.
 ## 👀 You can find me at:
 - Telegram: [Massick](https://t.me/m4ss1ck)
 - Twitter: [@M4ss1ck](https://twitter.com/M4ss1ck)
-- Portfolio: [massick.is-a.dev](https://massick.is-a.dev/)
+- Portfolio: [massick.is-a.dev](https://massick.dev/)
 
 
 ### Stats came from [this awesome project](https://github.com/anuraghazra/github-readme-stats)
