@@ -61,7 +61,7 @@ Enables streamers to display live Telegram messages directly inside OBS scenes.
 <!-- Side by Side Stats -->
 <div align="center">
   <img src="https://gh-stats.massick.dev/?theme=dracula&hide_border=true" height="170" alt="stats" />
-  <img src="https://gh-stats.massick.dev/languages?layout=donut&theme=dracula&hide_border=true" height="170" alt="languages" />
+  <img src="https://gh-stats.massick.dev/languages?layout=donut&theme=dracula&hide_border=true&rebuild=true" height="170" alt="languages" />
 </div>
 
 ---
